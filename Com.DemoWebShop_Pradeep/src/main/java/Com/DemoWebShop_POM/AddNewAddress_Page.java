@@ -20,7 +20,7 @@ public class AddNewAddress_Page {
 	@FindBy(id = "Address_Email")
 	private WebElement emailTextField;
 	
-	@FindBy(id = "Address_CountryID")
+	@FindBy(id = "Address_CountryId")
 	private WebElement countryDropdown;
 	
 	@FindBy(id = "Address_City")
