@@ -2,48 +2,48 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-06-20T23:01:42 IST" name="Default suite" finished-at="2026-06-20T23:04:10 IST" duration-ms="147866">
+  <suite started-at="2026-06-25T09:56:36 IST" name="Default suite" finished-at="2026-06-25T09:58:12 IST" duration-ms="95958">
     <groups>
     </groups>
-    <test started-at="2026-06-20T23:01:42 IST" name="Default test" finished-at="2026-06-20T23:04:10 IST" duration-ms="147866">
-      <class name="Com.DemoWebShop_TestScripts.TC001_VerifyUserIsAbleToAddAddressOrNot_Test">
-        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:Com.DemoWebShop_TestScripts.TC001_VerifyUserIsAbleToAddAddressOrNot_Test@74e52ef6]" started-at="2026-06-20T23:01:42 IST" name="beforeSuite" finished-at="2026-06-20T23:01:42 IST" duration-ms="226" status="PASS">
+    <test started-at="2026-06-25T09:56:36 IST" name="Default test" finished-at="2026-06-25T09:58:12 IST" duration-ms="95958">
+      <class name="Com.DemoWebShop_TestScripts.TC002_VerifyUserIsAbleToDeleteAddressOrNot_Test">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:Com.DemoWebShop_TestScripts.TC002_VerifyUserIsAbleToDeleteAddressOrNot_Test@74e52ef6]" started-at="2026-06-25T09:56:36 IST" name="beforeSuite" finished-at="2026-06-25T09:56:36 IST" duration-ms="24" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Com.DemoWebShop_TestScripts.TC001_VerifyUserIsAbleToAddAddressOrNot_Test@74e52ef6]" started-at="2026-06-20T23:01:42 IST" name="beforeTest" finished-at="2026-06-20T23:01:47 IST" duration-ms="5368" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Com.DemoWebShop_TestScripts.TC002_VerifyUserIsAbleToDeleteAddressOrNot_Test@74e52ef6]" started-at="2026-06-25T09:56:36 IST" name="beforeTest" finished-at="2026-06-25T09:56:37 IST" duration-ms="1284" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:Com.DemoWebShop_TestScripts.TC001_VerifyUserIsAbleToAddAddressOrNot_Test@74e52ef6]" started-at="2026-06-20T23:01:47 IST" name="beforeClass" finished-at="2026-06-20T23:02:59 IST" duration-ms="72127" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:Com.DemoWebShop_TestScripts.TC002_VerifyUserIsAbleToDeleteAddressOrNot_Test@74e52ef6]" started-at="2026-06-25T09:56:37 IST" name="beforeClass" finished-at="2026-06-25T09:57:16 IST" duration-ms="38651" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Com.DemoWebShop_TestScripts.TC001_VerifyUserIsAbleToAddAddressOrNot_Test@74e52ef6]" started-at="2026-06-20T23:03:00 IST" name="beforeMethod" finished-at="2026-06-20T23:03:21 IST" duration-ms="21244" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Com.DemoWebShop_TestScripts.TC002_VerifyUserIsAbleToDeleteAddressOrNot_Test@74e52ef6]" started-at="2026-06-25T09:57:16 IST" name="beforeMethod" finished-at="2026-06-25T09:57:21 IST" duration-ms="4583" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="addAddress()[pri:0, instance:Com.DemoWebShop_TestScripts.TC001_VerifyUserIsAbleToAddAddressOrNot_Test@74e52ef6]" started-at="2026-06-20T23:03:21 IST" name="addAddress" finished-at="2026-06-20T23:04:01 IST" duration-ms="40098" status="PASS">
+        <test-method signature="deleteAddress()[pri:0, instance:Com.DemoWebShop_TestScripts.TC002_VerifyUserIsAbleToDeleteAddressOrNot_Test@74e52ef6]" started-at="2026-06-25T09:57:21 IST" name="deleteAddress" finished-at="2026-06-25T09:58:06 IST" duration-ms="44661" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- addAddress -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Com.DemoWebShop_TestScripts.TC001_VerifyUserIsAbleToAddAddressOrNot_Test@74e52ef6]" started-at="2026-06-20T23:04:01 IST" name="afterMethod" finished-at="2026-06-20T23:04:01 IST" duration-ms="1" status="PASS">
+        </test-method> <!-- deleteAddress -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Com.DemoWebShop_TestScripts.TC002_VerifyUserIsAbleToDeleteAddressOrNot_Test@74e52ef6]" started-at="2026-06-25T09:58:06 IST" name="afterMethod" finished-at="2026-06-25T09:58:06 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:Com.DemoWebShop_TestScripts.TC001_VerifyUserIsAbleToAddAddressOrNot_Test@74e52ef6]" started-at="2026-06-20T23:04:01 IST" name="afterClass" finished-at="2026-06-20T23:04:08 IST" duration-ms="6939" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Com.DemoWebShop_TestScripts.TC002_VerifyUserIsAbleToDeleteAddressOrNot_Test@74e52ef6]" started-at="2026-06-25T09:58:06 IST" name="afterClass" finished-at="2026-06-25T09:58:10 IST" duration-ms="4841" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:Com.DemoWebShop_TestScripts.TC001_VerifyUserIsAbleToAddAddressOrNot_Test@74e52ef6]" started-at="2026-06-20T23:04:08 IST" name="afterTest" finished-at="2026-06-20T23:04:10 IST" duration-ms="1424" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:Com.DemoWebShop_TestScripts.TC002_VerifyUserIsAbleToDeleteAddressOrNot_Test@74e52ef6]" started-at="2026-06-25T09:58:10 IST" name="afterTest" finished-at="2026-06-25T09:58:12 IST" duration-ms="1327" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-        <test-method is-config="true" signature="afterSuite()[pri:0, instance:Com.DemoWebShop_TestScripts.TC001_VerifyUserIsAbleToAddAddressOrNot_Test@74e52ef6]" started-at="2026-06-20T23:04:10 IST" name="afterSuite" finished-at="2026-06-20T23:04:10 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:Com.DemoWebShop_TestScripts.TC002_VerifyUserIsAbleToDeleteAddressOrNot_Test@74e52ef6]" started-at="2026-06-25T09:58:12 IST" name="afterSuite" finished-at="2026-06-25T09:58:12 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->
-      </class> <!-- Com.DemoWebShop_TestScripts.TC001_VerifyUserIsAbleToAddAddressOrNot_Test -->
+      </class> <!-- Com.DemoWebShop_TestScripts.TC002_VerifyUserIsAbleToDeleteAddressOrNot_Test -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
